@@ -7,3 +7,4 @@ Some tips and tricks for coding
 - Describe your note and purpose
 - Add comments whereever possible so that anyone can understand what the code is doing.
 - Naming should be such that it gives feel to the user of what it signifies.
+- Use SRP (single responsibility principle) and DRY (don't repeat yourself) principles
