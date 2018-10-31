@@ -7,3 +7,4 @@ Some tips and tricks for coding
 - Describe your note and purpose
 - Add comments whereever possible so that anyone can understand what the code is doing.
 - Naming should be such that it gives feel to the user of what it signifies.
+- Constant/Final variables is better to be of all capital letters.
